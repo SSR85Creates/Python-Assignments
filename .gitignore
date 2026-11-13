@@ -179,3 +179,26 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+env/
+myenv/
+mvenv/
+# Playwright browser profile
+02_Python_Automation/Whatspp_Intelligence/whatsapp_profile/
+
+# Python virtual environments
+mvenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+*.old
+
+# Temporary files
+*.tmp
+# API keys and secrets
+.env
