@@ -1,0 +1,27 @@
+
+# LangChain
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+
+# PDF Processing
+pypdf
+
+# Vector Database
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Frontend
+streamlit
+requests
+
+# Environment
+python-dotenv
