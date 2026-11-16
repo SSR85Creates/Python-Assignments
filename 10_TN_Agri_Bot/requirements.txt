@@ -1,0 +1,16 @@
+
+requests
+beautifulsoup4
+langchain
+langchain-openai
+langchain-community
+langchain-experimental
+langchain-neo4j
+langchain-text-splitters
+neo4j
+python-dotenv
+streamlit
+fastapi
+uvicorn
+pydantic
+nemoguardrails
